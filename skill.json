@@ -1,0 +1,1 @@
+{"name":"finance","version":"1.0.0","description":"Expense tracking, budget management, and financial insights","author":"kombalarasoftware","category":"finance","tools":["add_expense","add_income","get_balance","list_transactions","budget_summary","spending_by_category"],"dependencies":[],"min_nanobot_version":"0.1.0"}
