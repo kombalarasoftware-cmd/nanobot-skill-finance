@@ -1,0 +1,1 @@
+## nanobot-skill-finance\nFinance tracking skill for Nanobot AI
